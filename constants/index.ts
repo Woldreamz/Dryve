@@ -74,23 +74,23 @@ export const icons = {
 export const onboarding = [
   {
     id: 1,
-    title: "The perfect ride is just a tap away!",
+    title: "The perfect trip is only a tap away!",
     description:
-      "Your journey begins with Ryde. Find your ideal ride effortlessly.",
+      "Dryve is where your journey starts. Discover your perfect ride with ease.",
     image: images.onboarding1,
   },
   {
     id: 2,
-    title: "Best car in your hands with Ryde",
+    title: "With Dryve, the best car is yours to command.",
     description:
-      "Discover the convenience of finding your perfect ride with Ryde",
+      "Discover how seamless it is to find your perfect ride using Dryve.",
     image: images.onboarding2,
   },
   {
     id: 3,
-    title: "Your ride, your way. Let's go!",
+    title: "Your ride, your way. Let's dryve!",
     description:
-      "Enter your destination, sit back, and let us take care of the rest.",
+      "Just tell us where you're headed, sit back, and leave the rest to us.",
     image: images.onboarding3,
   },
 ];
